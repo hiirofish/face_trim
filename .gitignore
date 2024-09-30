@@ -1,0 +1,26 @@
+# 画像ファイル
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.JPG
+
+# Zone.Identifierファイル
+*:Zone.Identifier
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+venv/
+ENV/
+
+# その他
+.DS_Store
+Thumbs.db
+*.dat
